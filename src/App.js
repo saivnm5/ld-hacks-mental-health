@@ -7,7 +7,7 @@ import HelpLanding from './HelpLanding.jsx';
 import HelpNow from './HelpNow.jsx';
 
 const App = () => (
-  <Container>
+  <Container className='full-height'>
     <Routes>
       <Route path="/" element={HelpLanding()} />
       <Route path="help-now" element={HelpNow()} />

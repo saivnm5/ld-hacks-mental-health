@@ -339,6 +339,18 @@ body {
   font-size: 1rem;
 }
 
+body, html {
+  height: 100vh;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.vertical-center {
+  align-self: center;
+}
+
 .cta-container {
   text-decoration: none!important;
   color: black;

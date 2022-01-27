@@ -6,8 +6,8 @@ import HelpNow from './HelpNow';
 import HelpLater from './HelpLater.jsx';
 
 const HelpLanding = () => (
-  <Row>
-    <Col xs={12}>
+  <Row className='full-height'>
+    <Col xs={12} className='vertical-center'>
       <h1 className="title">What help do you need?</h1>
       <HelpNow />
       <HelpLater />
