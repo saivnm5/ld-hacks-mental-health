@@ -1,14 +1,14 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
+import { Link } from "react-router-dom";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-const HelpLaterOptions = () => {
+const HelpLater = () => {
   return (
       <Row>
         <Col xs={9} ld={5}>
           <Row>
-            <Col xs={12}><Button> I need help later </Button></Col>
+            <Col xs={12}><Link to="/help-later"> I need help later </Link></Col>
           </Row>
           <Row>
             <Col xs={12}>You can browse through our curalted list of mental health professionals, and book an appointment whenever you need.
@@ -19,4 +19,4 @@ const HelpLaterOptions = () => {
   );
 };
 
-export default HelpLaterOptions
+export default HelpLater
