@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e05116d-c808-4ad5-94aa-3d82950df74d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AccessHRHelp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindATherapist.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindTherapist.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FitnessLifestyle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelpLaterLanding.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCLEnterpriseHelp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/accesshrhelp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/findtherapist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fitnesslifestyle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lclenterprise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelpLater.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpLater.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelpNow.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpNow.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24INemdurUVSN4VsIZluQuP3DO0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e05116d-c808-4ad5-94aa-3d82950df74d" name="Changes" comment="" />
+      <created>1643314238874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643314238874</updated>
+      <workItem from="1643314242769" duration="4556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
