@@ -7,8 +7,8 @@ import lclenterprise from './images/lclenterprise.png'
 const LCLEnterpriseHelp = () => (
   <Row >
     <Col xs={12}>
-      <Link className='' to='/'>
-        <div className='cta-container light-green'>
+      <Link className='' to='/enterprise-help'>
+        <div className='cta-container pale-cyan'>
           <div>
             <p className='cta'>LCL Enterprise Help </p>
             <p className='description'>Small text to describe the process of finding osmeone to talk to immediately</p>

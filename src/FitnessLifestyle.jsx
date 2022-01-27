@@ -7,8 +7,8 @@ import fitnesslifestyle from './images/fitnesslifestyle.png'
 const FitnessLifestyle = () => (
   <Row >
     <Col xs={12}>
-      <Link className='' to='/'>
-        <div className='cta-container light-green'>
+      <Link className='' to='/fitness-lifestyle'>
+        <div className='cta-container pale-blue'>
           <div>
             <p className='cta'>Fitness / Lifestyle </p>
             <p className='description'>Small text to describe the process of finding osmeone to talk to immediately</p>

@@ -6,6 +6,10 @@ import HelpLater from './HelpLater.jsx';
 import HelpLanding from './HelpLanding.jsx';
 import HelpNow from './HelpNow.jsx';
 import HelpLaterLanding from './HelpLaterLanding.jsx';
+import FindATherapist from './FindATherapist.jsx';
+import LCLEnterpriseHelp from './LCLEnterpriseHelp.jsx';
+import AccessHRHelp from './AccessHRHelp.jsx';
+import FitnessLifestyle from './FitnessLifestyle.jsx';
 
 const App = () => (
   <Container className='full-height'>
@@ -14,6 +18,10 @@ const App = () => (
       <Route path="help-now" element={HelpNow()} />
       <Route path="help-later" element={HelpLater()} />
       <Route path="help-later-landing" element={HelpLaterLanding()} />
+      <Route path="find-a-therapist" element={FindATherapist()} />
+      <Route path="enterprise-help" element={LCLEnterpriseHelp()} />
+      <Route path="fitness-lifestyle" element={FitnessLifestyle()} />
+      <Route path="access-hr-help" element={AccessHRHelp()} />
     </Routes>
   </Container>
 );
