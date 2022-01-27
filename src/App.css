@@ -368,6 +368,10 @@ body, html {
   background-color: #F9FFD6;
 }
 
+.light-brown {
+    background-color: #FFE4C4;
+}
+
 .cta {
   font-size: 1.35rem;
   font-weight: 500;
