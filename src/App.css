@@ -335,12 +335,17 @@
 }
 
 body {
-  font-family: 'GT Eesti Pro Text', sans-serif;
+  font-family: 'GT Eesti Pro Display', sans-serif;
   font-size: 1rem;
 }
 
 body, html {
   height: 100vh;
+}
+
+a:link{
+  text-decoration: none!important;
+  cursor: pointer;
 }
 
 .full-height {
@@ -372,6 +377,22 @@ body, html {
     background-color: #FFE4C4;
 }
 
+.peach {
+  background-color: #FFDBD6;
+}
+
+.light-orange {
+  background-color: #FFF1D6;
+}
+
+.pale-blue {
+    background-color: #d6e6ff;
+}
+
+.pale-cyan {
+    background-color: #d6faff;
+}
+
 .cta {
   font-size: 1.35rem;
   font-weight: 500;
@@ -396,4 +417,8 @@ body, html {
 .title {
   font-size: 2.5rem;
   font-weight: 700;
+}
+
+.title-container {
+  padding: 1em;
 }
