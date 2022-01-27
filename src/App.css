@@ -373,8 +373,24 @@ a:link{
   background-color: #F9FFD6;
 }
 
+.light-brown {
+    background-color: #FFE4C4;
+}
+
 .peach {
   background-color: #FFDBD6;
+}
+
+.light-orange {
+  background-color: #FFF1D6;
+}
+
+.pale-blue {
+    background-color: #d6e6ff;
+}
+
+.pale-cyan {
+    background-color: #d6faff;
 }
 
 .cta {
