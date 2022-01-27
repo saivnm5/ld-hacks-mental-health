@@ -7,7 +7,7 @@ import Siren2 from './siren2.png'
 const HelpLater = () => (
   <Row >  
     <Col xs={12}>
-      <Link className='' to='/help-now'> 
+      <Link className='' to='/help-later-landing'>
         <div className='cta-container light-yellow'>
           <div>
             <p className='cta'>I need help later </p>
