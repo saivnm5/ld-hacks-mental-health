@@ -335,7 +335,7 @@
 }
 
 body {
-  font-family: 'GT Eesti Pro Text', sans-serif;
+  font-family: 'GT Eesti Pro Display', sans-serif;
   font-size: 1rem;
 }
 
@@ -373,6 +373,10 @@ a:link{
   background-color: #F9FFD6;
 }
 
+.peach {
+  background-color: #FFDBD6;
+}
+
 .cta {
   font-size: 1.35rem;
   font-weight: 500;
@@ -397,4 +401,8 @@ a:link{
 .title {
   font-size: 2.5rem;
   font-weight: 700;
+}
+
+.title-container {
+  padding: 1em;
 }
