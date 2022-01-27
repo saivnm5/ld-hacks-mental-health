@@ -5,15 +5,14 @@ import Col from 'react-bootstrap/Col';
 import HelpNow from './HelpNow';
 import HelpLater from './HelpLater.jsx';
 
-const HelpNowLanding = () => (
+const HelpLanding = () => (
   <Row>
     <Col xs={12}>
-      <h1 className="header">Welcome To Self Check</h1>
-      <h6>We are here for you</h6>
+      <h1 className="title">What help do you need?</h1>
       <HelpNow />
       <HelpLater />
     </Col>
   </Row>
 );
 
-export default HelpNowLanding;
+export default HelpLanding;
