@@ -10,8 +10,8 @@ const HelpLater = () => (
       <Link className='' to='/help-now'> 
         <div className='cta-container light-yellow'>
           <div>
-            <p className='cta'>I need help later </p>
-            <p className='description'>You can browse through our curalted list of mental health professionals, and book an appointment whenever you need.</p>
+            <p className='cta'>Non-urgent help</p>
+            <p className='description'>Looking to start a journey to wellness? Here is a simpler path to get there.</p>
           </div>
           <img className='icon' src={Siren2} alt="Siren" />
         </div>
