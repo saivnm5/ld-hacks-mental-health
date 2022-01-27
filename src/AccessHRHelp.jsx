@@ -8,7 +8,7 @@ import accesshrhelp from './images/accesshrhelp.png'
 const AccessHRHelp = () => (
   <Row>
     <Col xs={12}>
-       <Link className='' to='/access-hr-help'>
+       <Link className='' to='/'>
             <div className='cta-container light-orange'>
               <div>
                 <p className='cta'>Access HR Help </p>

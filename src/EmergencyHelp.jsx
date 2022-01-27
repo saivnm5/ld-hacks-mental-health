@@ -19,7 +19,7 @@ const Emergencyhelp = () => (
 const HealthDay = () => (
     <Row >
         <Col xs={12}>
-            <Link className='' to='/health-day'>
+            <Link className='' to='/'>
                 <div className='cta-container light-green'>
                     <div>
                         <p className='cta'>Take a mental health day </p>
@@ -35,7 +35,7 @@ const HealthDay = () => (
 const TalkTo = () => (
     <Row >
         <Col xs={12}>
-            <Link className='' to='/talk-to'>
+            <Link className='' to='/'>
                 <div className='cta-container light-brown'>
                     <div>
                         <p className='cta'>Talk to someone</p>

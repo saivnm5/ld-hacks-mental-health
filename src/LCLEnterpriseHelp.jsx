@@ -7,7 +7,7 @@ import lclenterprise from './images/lclenterprise.png'
 const LCLEnterpriseHelp = () => (
   <Row >
     <Col xs={12}>
-      <Link className='' to='/enterprise-help'>
+      <Link className='' to='/'>
         <div className='cta-container pale-cyan'>
           <div>
             <p className='cta'>Loblaws Resources</p>
