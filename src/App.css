@@ -404,5 +404,29 @@ a:link{
 }
 
 .title-container {
-  padding: 1em;
+  padding: 3.5em 1em 1em;
+  margin-bottom: 1em;
 }
+
+.form-heading {
+  font-size: 1.35rem;
+  font-weight: 500;
+  color: #909090;
+  margin-bottom: .5rem;
+}
+
+.form-text {
+  font-size: 1.25rem;
+  margin-bottom: .25rem;
+}
+
+.form-description {
+  font-size: 1.15rem;
+  margin-bottom: .15rem;
+}
+
+.form-subtext {
+  font-size: .75rem;
+  font-weight: 300;
+}
+
