@@ -364,6 +364,10 @@ body, html {
   background-color: #D6FFF8;
 }
 
+.light-yellow {
+  background-color: #F9FFD6;
+}
+
 .cta {
   font-size: 1.35rem;
   font-weight: 500;
