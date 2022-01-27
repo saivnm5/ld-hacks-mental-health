@@ -11,7 +11,7 @@ const FitnessLifestyle = () => (
         <div className='cta-container pale-blue'>
           <div>
             <p className='cta'>Fitness / Lifestyle </p>
-            <p className='description'>Small text to describe the process of finding osmeone to talk to immediately</p>
+            <p className='description'>Book a session or get a coach to help you with your fitness goals.</p>
           </div>
           <img className='icon' src={fitnesslifestyle} alt="fitnesslifestyle" />
         </div>

@@ -11,7 +11,7 @@ const FindTherapist = () => (
         <div className='cta-container peach'>
           <div>
             <p className='cta'>Find a therapist </p>
-            <p className='description'>Small text to describe the process of finding osmeone to talk to immediately</p>
+            <p className='description'>Whether its personal or professional, we will help you find the right services for you</p>
           </div>
           <img className='icon' src={findtherapist} alt="findtherapist" />
         </div>

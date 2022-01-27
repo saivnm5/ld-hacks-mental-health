@@ -10,8 +10,8 @@ const LCLEnterpriseHelp = () => (
       <Link className='' to='/enterprise-help'>
         <div className='cta-container pale-cyan'>
           <div>
-            <p className='cta'>LCL Enterprise Help </p>
-            <p className='description'>Small text to describe the process of finding osmeone to talk to immediately</p>
+            <p className='cta'>Loblaws Resources</p>
+            <p className='description'>Access all Loblaws resources here</p>
           </div>
           <img className='icon' src={lclenterprise} alt="lclenterprise" />
         </div>
