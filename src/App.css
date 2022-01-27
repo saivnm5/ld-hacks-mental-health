@@ -343,6 +343,11 @@ body, html {
   height: 100vh;
 }
 
+a:link{
+  text-decoration: none!important;
+  cursor: pointer;
+}
+
 .full-height {
   height: 100vh;
 }
