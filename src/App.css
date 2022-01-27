@@ -405,6 +405,7 @@ a:link{
 
 .icon {
   align-self: center;
+  max-width: 100px;
 }
 
 .btn-red {
