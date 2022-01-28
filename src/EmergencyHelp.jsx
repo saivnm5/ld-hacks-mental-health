@@ -23,7 +23,7 @@ const HealthDay = () => (
                 <div className='cta-container light-green'>
                     <div>
                         <p className='cta'>Take a mental health day </p>
-                        <p className='description'>We will inform your manager and take care of the rest!</p>
+                        <p className='description'>Just relax.. We will take care of the rest</p>
                     </div>
                     <img className='icon' src={MentalHealth} alt="MentalHealth" />
                 </div>
@@ -39,7 +39,7 @@ const TalkTo = () => (
                 <div className='cta-container light-brown'>
                     <div>
                         <p className='cta'>Talk to someone</p>
-                        <p className='description'>Small test to describe the process of taking a mental day</p>
+                        <p className='description'>We will connect you to our mental health ambassador to guide you with whatever you  need</p>
                     </div>
                     <img className='icon' src={TalkToImg} alt="TalkTo" />
                 </div>
