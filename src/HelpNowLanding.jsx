@@ -6,7 +6,7 @@ import {Link} from "react-router-dom";
 import MentalHealth from "./MentalHealth.png";
 import TalkToImg from "./TalkTo.png";
 
-const Emergencyhelp = () => (
+const HelpNowLanding = () => (
   <Row className='full-height'>
     <Col xs={12} className='vertical-center'>
       <h1 className="title">Emergency help</h1>
@@ -50,4 +50,4 @@ const TalkTo = () => (
 
 
 
-export default Emergencyhelp;
+export default HelpNowLanding;

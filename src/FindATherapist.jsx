@@ -1,4 +1,5 @@
 import React, {Fragment} from 'react';
+import { Link } from "react-router-dom";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import {Form} from 'react-bootstrap';
@@ -18,6 +19,13 @@ const FindATherapist = () => (
           <p className='form-description'>On a scale of 1 to 10 rate your mood</p>
           <p className='form-subtext'>1 being lowest or unhappiest, 10 being highest or happiest</p>
         </Form>
+      </Col>
+    </Row>
+    <Row>
+      <Col xs={12}>
+        <div class="slidecontainer">
+          <input type="range" min="1" max="10" value="5" className="slider" id="myRange" />
+        </div>
       </Col>
     </Row>
     <Row>
@@ -43,6 +51,11 @@ const FindATherapist = () => (
     <Row className='checkbox-container'>
       <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Relationships </label></Col>
       <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Trauma</label></Col>
+    </Row>
+    <Row>
+      <Col>
+        <Link to='/'></Link>
+      </Col>
     </Row>
   </Fragment>
   );

@@ -7,7 +7,7 @@ import findtherapist from './images/findtherapist.png'
 const FindTherapist = () => (
   <Row >
     <Col xs={12}>
-      <Link className='' to='/find-therapist'>
+      <Link className='' to='/find-a-therapist'>
         <div className='cta-container peach'>
           <div>
             <p className='cta'>Find a therapist </p>
