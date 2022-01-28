@@ -32,9 +32,17 @@ const FindATherapist = () => (
         </Form>
       </Col>
     </Row>
-    <Row>
-      <Col xs={6}><label><input type="checkbox" name="checkbox" />Select me</label></Col>
-      <Col xs={6}><label><input type="checkbox" name="checkbox" />Select me</label></Col>
+    <Row className='checkbox-container'>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Personal</label></Col>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Professional</label></Col>
+    </Row>
+    <Row className='checkbox-container'>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Depression</label></Col>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Anxiety</label></Col>
+    </Row>
+    <Row className='checkbox-container'>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Relationships </label></Col>
+      <Col xs={6}><label><input className='checkbox' type="checkbox" name="checkbox" />Trauma</label></Col>
     </Row>
   </Fragment>
   );
